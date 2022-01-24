@@ -385,7 +385,7 @@ a:focus {
     font-size: 90px;
     font-weight: 700;
     margin-bottom: 20px;
-    text-transform: capitalize;
+    /*text-transform: capitalize;*/
 }
 
 .carousel .carousel-text p {
